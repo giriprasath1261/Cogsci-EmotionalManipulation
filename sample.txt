@@ -1,0 +1,8 @@
+12 games:
+    1. stop with 16 win
+    2. stop with 15 lose
+    3. stop with 15 lose  
+    4. stop with 16 win  timer
+    5. stop with 15 win  timer
+    6. stop with 16 lose timer
+
